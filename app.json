@@ -1,7 +1,7 @@
 {
-  "name": "Telethon For Iraq",
-  "description": "Welcome to Source Telethon for Iraq, follow the channel @IQTHON, and also the developer channel @RXXRX",
-  "logo": "https://telegra.ph/file/01db49b24a1dbae76c825.jpg",
+  "name": "TerxBot For RAP",
+  "description": "Welcome to Source TerxBot for RAP, follow the channel @CTILK, and also the developer channel @CTILK",
+  "logo": "https://telegra.ph/file/0264856630ef29b35fed0.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/klanrali/telethon-iraq/",
+  "repository": "https://github.com/terxbot/mc/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
